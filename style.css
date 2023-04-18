@@ -1,0 +1,9 @@
+canvas {
+    border-width:5px;
+    border-style: ridge;
+    background-color:white;
+}
+body {
+    background-image: url("RealStock.jpg");
+    background-size: cover;
+}
